@@ -1,1 +1,3 @@
-This is just an empty readme file.
+# Read me
+
+This is a website made as part of The Odin Project course.
